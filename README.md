@@ -1,2 +1,2 @@
 # VRSpaceManCode
-The code for a Unity project
+This project, is all the code I did, for a VR unity project.
